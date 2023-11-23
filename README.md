@@ -6,6 +6,7 @@ No need to worry about the examination analysis, Whiz-Wit-Sleuth is here! All it
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
+  - [Recommended](#recommended)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
@@ -25,6 +26,11 @@ Whiz-Wit-Sleuth is a playful Python script designed to extract high probability 
 ## Getting Started
 
 Follow these instructions to get Whiz-Wit-Sleuth up and running on your local machine.
+
+### Recommended 
+
+- Whiz-Wit-Sleuth works well on rgpv paper formate.
+- If language other than 'English' is present in the pdf then ready to face annoying symbol (but it won't affect the english text), it may be some frustrations from Whiz-Wit...
 
 ### Prerequisites
 
