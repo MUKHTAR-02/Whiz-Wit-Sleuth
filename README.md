@@ -34,6 +34,38 @@ Follow these instructions to get Whiz-Wit-Sleuth up and running on your local ma
 ### Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/MUKHTAR-02/Whiz-Wit-Sleuth.git
+
+2. Install the required dependencies:
+      ```bash
+   pip install PyPDF2
+
+## Usage
+
+1. To use Whiz Wit Sleuth, run the script with the path to your PDF file as an argument:
+   ```bash
+   python whiz_wit_sleuth.py path/to/your/file.pdf
+- This will generate a text file with the extracted questions.
+
+## Example
+
+import PyPDF2 <br>
+import re <br>
+from datetime import datetime <br>
+
+... (your code here)
+
+pdf_path = "path/to/your/file.pdf"
+pdf_text = extract_text_from_pdf(pdf_path)
+analyze_questions(pdf_text) 
+
+
+## Contributing
+
+- If you would like to contribute to this project, feel free to open an issue or submit a pull request we need more coders like you. Welcome!
+
+## License
+
+- This project is licensed under the <a href = "LICENSE"> MIT License</a>
+- Feel free to suggest about more features and improvements.
