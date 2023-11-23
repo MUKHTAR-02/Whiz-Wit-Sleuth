@@ -1,5 +1,5 @@
 # Whiz-Wit-Sleuth
-No need to worry about the examination analysis, Whiz-Wit-Sleuth is here! All it takes is previous year examination pdf file, then it will analyze based on the frequently asked questions and generates the output🕵️‍♂️🦉
+No need to worry about the examination analysis, Whiz-Wit-Sleuth is here! All it takes is previous year examination pdf file, then it will do the analysis based on frequently asked questions and generate the output🕵️‍♂️🦉
 
 ## Table of Contents
 
