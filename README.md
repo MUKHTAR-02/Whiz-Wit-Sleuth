@@ -62,9 +62,9 @@ from datetime import datetime <br>
 
 ... (your code here)
 
-pdf_path = "path/to/your/file.pdf"
-pdf_text = extract_text_from_pdf(pdf_path)
-analyze_questions(pdf_text) 
+pdf_path = "path/to/your/file.pdf" <br>
+pdf_text = extract_text_from_pdf(pdf_path) <br>
+analyze_questions(pdf_text) <br>
 
 
 ## Contributing
